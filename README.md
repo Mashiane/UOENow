@@ -1,6 +1,8 @@
 # UOENow
 UOENow is a BANano wrap of Creative Tim's Now UI Kit. You will need B4J and BANano to run the attached project.
 
+You can get BANano from here: https://www.b4x.com/android/forum/threads/banano-website-app-wpa-library-with-abstract-designer-support.99740/#content
+
 The license for using Creative Tim's Now UI Kit.
 
 MIT License
